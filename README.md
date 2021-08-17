@@ -5,3 +5,9 @@ This is the python implementation of hardware efficient spiking neural network. 
 
 Spike-Time Dependent Plasticity (STDP) algorithm will be used to train the network.
 
+The SNN model used in this work is the feed-forward network, each neuron is connected to
+all the neurons in the next layer by a weighted connection, which means that the output signal
+of a neuron has a different weighted potential contribution . Input neurons require spike trains
+and input signals (stimuli) need to be encoded into spikes (typically, spike trains) to further
+feed the SNN.
+
