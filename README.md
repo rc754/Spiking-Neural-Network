@@ -30,3 +30,6 @@ The figure 3.4 delineates the work flow of the implemented code which together c
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61707225/129904617-3d0f7eca-2b29-4166-9d38-22f33fef04c5.PNG" width="500"/>
 </p>
+
+## Dataset 
+The MNIST database of handwritten digits contains 60,000 and 10,000 training and test samples respectively. The digits have been size-normalized and centered in a fixed-size image.The data set is useful for learning techniques and pattern recognition testing on real-world data an it doesn’t a lot of pre-processing and formatting. Each image is of the size 28 x 28 Pixel.
