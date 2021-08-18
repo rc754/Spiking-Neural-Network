@@ -23,4 +23,10 @@ feed the SNN.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61707225/129902655-ae66bf74-8609-4a8a-8c5a-3185e9ead473.PNG" width="600"/>
-</p
+</p>
+
+## Processing Workflow
+The figure 3.4 delineates the work flow of the implemented code which together constitute the spiking neural network.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61707225/129904617-3d0f7eca-2b29-4166-9d38-22f33fef04c5.PNG" width="500"/>
+</p>
