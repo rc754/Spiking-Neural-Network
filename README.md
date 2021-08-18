@@ -18,9 +18,9 @@ feed the SNN.
 ## Network Elements
 - Image Encoding: The encoding an image involves the conversion of the pixel values to spike train.
 - Synapse: In an SNN, synapse is the weighted path for generated spikes from one neuron to the other connected neurons.
-- Neuron: Neuron is the fundamental unit of an SNN. The input, hidden and output layers consist of several iterconnected neurons and this neuron emulates the classic leaky integrate-and-fire (LIF)model
+- Neuron: Neuron is the fundamental unit of an SNN. The input, hidden and output layers consist of several iterconnected neurons and this neuron emulates the classic leaky integrate-and-fire (LIF)model.
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61707225/129902655-ae66bf74-8609-4a8a-8c5a-3185e9ead473.PNG" width="500"/>
+  <img src="https://user-images.githubusercontent.com/61707225/129902655-ae66bf74-8609-4a8a-8c5a-3185e9ead473.PNG" width="600"/>
 </p
