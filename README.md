@@ -33,3 +33,16 @@ The figure 3.4 delineates the work flow of the implemented code which together c
 
 ## Dataset 
 The MNIST database of handwritten digits contains 60,000 and 10,000 training and test samples respectively. The digits have been size-normalized and centered in a fixed-size image.The data set is useful for learning techniques and pattern recognition testing on real-world data an it doesn’t a lot of pre-processing and formatting. Each image is of the size 28 x 28 Pixel.
+
+## Results
+Reconstruction was carried out using
+the SNN architecture and employing brain learning algorithm, STDP. For an input image, we
+have received three neuron outputs as the hidden layer had three neurons. According to the
+results shown below, our winner neuron was the second neuron for 4.5 , and the rest two
+neurons gave noise as the output, because their weights were depressed by lateral inhibition
+technique which optimises our network. In figure 4.6 the winner neuron is the first neuron and
+a reconstructed image similar to the input image is obtained.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61707225/129907452-edcf63c9-bc54-4ca2-a0f6-4606a402d968.PNG" width="500"/>
+</p>
