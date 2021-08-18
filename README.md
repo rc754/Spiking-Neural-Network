@@ -11,3 +11,7 @@ of a neuron has a different weighted potential contribution . Input neurons requ
 and input signals (stimuli) need to be encoded into spikes (typically, spike trains) to further
 feed the SNN.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61707225/129899204-84d1b05e-56e0-4081-9624-d4e5272ab32b.PNG" width="500"/>
+</p>
+
